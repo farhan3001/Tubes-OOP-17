@@ -2,7 +2,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 import java.io.*;
 import java.util.ArrayList;
-
+//
 public class DeclareHiji {
 
     ArrayList<String> addCard = new ArrayList<String>();// temporary array entar tinggal ganti aja jadi List
